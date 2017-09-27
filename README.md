@@ -174,3 +174,7 @@ Whats with the name ?!
 The name bubblewrap was chosen to convey that this
 tool runs as the parent of the application (so wraps it in some sense) and creates
 a protective layer (the sandbox) around it.
+-
+-![](bubblewrap_kitty.jpg)
+-
+-(Bubblewrap cat by [Adrian F](https://www.flickr.com/photos/adrianfurby/179606048/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
